@@ -1,4 +1,4 @@
-// routes/aliment.routes.js
+
 import express from "express";
 import { getproduit } from "../controlleur/controlleur.js";
 

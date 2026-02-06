@@ -1,6 +1,6 @@
 // server.js
 import express from "express";
-import alimentRoutes from "./router/router.js";  // adapte le chemin si besoin
+import alimentRoutes from "./router/router.js";
 
 const app = express();
 const PORT = 3000;
